@@ -1,8 +1,8 @@
-# Express-React Template by Devarsh Panchal
+# SafeParkGuard by Yash Gohel and Team
 
 ## Description
 
-This is a template for creating MERN stack application which runs on a same port. Applications created using this template can be deployed to the hosting services like Heroku. 
+"SafeParkGuard" is a smart and reliable vehicle security system that ensures the safety of your parked vehicle in unauthorized parking situations as well as In the event of an accident, "SafeParkGuard" automatically contacts the emergency number you provided during setup. This ensures that your family members or friends are promptly notified, enabling them to provide the necessary assistance and support..
 
 ## Docs
 
